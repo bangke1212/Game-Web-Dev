@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "groups": {
+    "share": {
+      "name": "Share",
+      "order": 10
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/73a653aedcd346e34a901bd448fe6929b21e7f1f7c3c119dce2396c63e540952.png",
+      "sha256": "sha256:73a653aedcd346e34a901bd448fe6929b21e7f1f7c3c119dce2396c63e540952",
+      "size": 1707,
+      "assetType": "image",
+      "groupId": "share"
+    }
+  }
+}

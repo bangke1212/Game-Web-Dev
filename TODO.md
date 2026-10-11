@@ -1,0 +1,9 @@
+# JAMRUSH Outcome List
+
+- Deliver an English-language playable game-jam run that starts from a compact brief, limited schedule, and a large ticking deadline clock; allow readable actions for feature work, refactoring, testing, polishing, devlogs, rest, encouragement, celebration, and risky push-through decisions.
+- Deliver a clear phase progression through ideation, production, bug-fixing, polish, and final submission, with feature cards, introduced bug cards, drag-and-drop triage lanes, bug multiplication/crash pressure, rival progress bars, random events, branching choices, buddy reactions, varied briefs, escalating difficulty, and fast restart.
+- Deliver end-of-jam rankings and a postmortem with score categories for feature completeness, stability, polish, audience hype, team energy, and devlog engagement, plus multiple outcome endings and local best-score persistence.
+- Deliver title, first-play controls tutorial, pause, settings, accessibility/reduced-motion, results, restart, tooltip, warning, and urgent countdown UI; keep keyboard/mouse, touch, and gamepad navigation available for menus and core actions.
+- Deliver a consistent original neon-risograph desktop-studio look with expressive buddy motion, procedural studio backdrop, particles/stat pulses, punchy but reducible screen shake, and original reactive Web Audio feedback; use no licensed IP or externally copied content.
+- Deliver landscape-phone responsive behavior without removing any core action, and preserve Vite static build output for Vercel deployment.
+- Verify typecheck, unit tests, production build, route manifest, Playwright smoke loop, restart/input behavior, modal accessibility, mobile landscape layout, and absence of console/network errors before saving and pushing the finished source to the requested GitHub repository.

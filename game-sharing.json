@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "title": "JAMRUSH: Deadline Panic",
+  "description": "A frantic game-jam management sprint about scope, bugs, vibes, and shipping.",
+  "defaultCaptions": {
+    "x": "Can a tiny team ship one good thing before the deadline?",
+    "facebook": "JAMRUSH: Deadline Panic",
+    "reddit": "I made a game about shipping the weird little idea.",
+    "discord": "JAMRUSH is live — scope it, bug it, ship it."
+  },
+  "assets": {
+    "favicon": "assets/share/favicon.png"
+  }
+}
